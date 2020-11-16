@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="902b8c18-0644-4446-aabe-97141f3a02c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kM147q1ZrulspUsIqXBPep7NYd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test3">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Hello" />
+      <module name="testACJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test3" />
+      <module name="testACJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="902b8c18-0644-4446-aabe-97141f3a02c3" name="Default Changelist" comment="" />
+      <created>1605495451935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605495451935</updated>
+      <workItem from="1605495453435" duration="4301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="51" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605495642059">
+      <screen x="51" y="0" width="1389" height="900" />
+    </state>
+    <state x="51" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605495642059" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1605499072285">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.0.bottom/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673449" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072285" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1605499072284">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.0.center/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673448" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072284" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1605499072283">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.0.left/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673448" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072283" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1605499072284">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.0.right/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673449" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072284" />
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom" timestamp="1605499072292">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.1.bottom/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673455" />
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072292" />
+    <state width="1878" height="290" key="GridCell.Tab.1.center" timestamp="1605499072291">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.1.center/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673454" />
+    <state width="1878" height="290" key="GridCell.Tab.1.center/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072291" />
+    <state width="1878" height="290" key="GridCell.Tab.1.left" timestamp="1605499072290">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.1.left/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673454" />
+    <state width="1878" height="290" key="GridCell.Tab.1.left/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072290" />
+    <state width="1878" height="290" key="GridCell.Tab.1.right" timestamp="1605499072291">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.1.right/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673455" />
+    <state width="1878" height="290" key="GridCell.Tab.1.right/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072291" />
+    <state width="1878" height="290" key="GridCell.Tab.2.bottom" timestamp="1605499072287">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.2.bottom/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673451" />
+    <state width="1878" height="290" key="GridCell.Tab.2.bottom/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072287" />
+    <state width="1878" height="290" key="GridCell.Tab.2.center" timestamp="1605499072286">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.2.center/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673450" />
+    <state width="1878" height="290" key="GridCell.Tab.2.center/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072286" />
+    <state width="1878" height="290" key="GridCell.Tab.2.left" timestamp="1605499072285">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.2.left/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673450" />
+    <state width="1878" height="290" key="GridCell.Tab.2.left/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072285" />
+    <state width="1878" height="290" key="GridCell.Tab.2.right" timestamp="1605499072287">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.2.right/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673451" />
+    <state width="1878" height="290" key="GridCell.Tab.2.right/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072287" />
+    <state width="1878" height="290" key="GridCell.Tab.3.bottom" timestamp="1605499072290">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.3.bottom/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673453" />
+    <state width="1878" height="290" key="GridCell.Tab.3.bottom/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072290" />
+    <state width="1878" height="290" key="GridCell.Tab.3.center" timestamp="1605499072288">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.3.center/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673452" />
+    <state width="1878" height="290" key="GridCell.Tab.3.center/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072288" />
+    <state width="1878" height="290" key="GridCell.Tab.3.left" timestamp="1605499072288">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.3.left/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673452" />
+    <state width="1878" height="290" key="GridCell.Tab.3.left/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072288" />
+    <state width="1878" height="290" key="GridCell.Tab.3.right" timestamp="1605499072289">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="237" key="GridCell.Tab.3.right/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605497673453" />
+    <state width="1878" height="290" key="GridCell.Tab.3.right/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499072289" />
+    <state x="-1376" y="-824" key="SettingsEditor" timestamp="1605495744561">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-1376" y="-824" key="SettingsEditor/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605495744561" />
+    <state x="-1230" y="-801" width="540" height="524" key="StructurePopup" timestamp="1605499133500">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-1230" y="-801" width="540" height="524" key="StructurePopup/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499133500" />
+    <state x="-1305" y="-776" width="689" height="472" key="find.popup" timestamp="1605496040644">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-1305" y="-776" width="689" height="472" key="find.popup/51.0.1389.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605496040644" />
+    <state x="-1295" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1605499128656">
+      <screen x="-1920" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="-839" width="670" height="676" key="search.everywhere.popup/53.0.1387.900/-1920.-1080.1920.1080/0.-1080.1920.1080@-1920.-1080.1920.1080" timestamp="1605499128656" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.7.0/aspectjtools-1.7.0-sources.jar!/org/aspectj/util/PartialOrder.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
