@@ -12,6 +12,11 @@ public aspect TxAspectj {
         System.out.println("前置增强");
     }
 
+    //最终增强
+    after():mypointcut(){
+        System.out.println("后置增强");
+    }
+
 
     Object around():mypointcut(){
         System.out.println("around start...");
@@ -20,10 +25,6 @@ public aspect TxAspectj {
         return o ;
     }
 
-    //最终增强
-    after():mypointcut(){
-        System.out.println("后置增强");
-    }
 
 
     //异常增强

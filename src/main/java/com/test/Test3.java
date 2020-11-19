@@ -27,8 +27,8 @@ public class Test3 {
                     Unknown u = (Unknown) attribute;
                     BcelConstantPoolReader dataDecompressor = new BcelConstantPoolReader(method.getConstantPool());
                     VersionedDataInputStream s = new VersionedDataInputStream(new ByteArrayInputStream(u.getBytes()), dataDecompressor);
-                    AjAttribute.MethodDeclarationLineNumberAttribute methodDeclarationLineNumberAttribute =  AjAttribute.MethodDeclarationLineNumberAttribute.read(s);
-                    System.out.println(methodDeclarationLineNumberAttribute.getLineNumber());
+                    AjAttribute.MethodDeclarationLineNumberAttribute lineInfo =  AjAttribute.MethodDeclarationLineNumberAttribute.read(s);
+                    System.out.println("lineNumber:" + lineInfo.getLineNumber() + ",offset : " + lineInfo.getOffset());
                 }
             }
         }
